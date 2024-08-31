@@ -1,4 +1,4 @@
-python3-distutils
+python-dateutil==2.8.2
 setuptools
 wheel
 numpy==1.23.5
