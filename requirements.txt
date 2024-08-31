@@ -1,6 +1,4 @@
-distutils
 setuptools
-wheel
 numpy==1.23.5
 pickle-mixin==1.0.2
 streamlit==1.26.0
